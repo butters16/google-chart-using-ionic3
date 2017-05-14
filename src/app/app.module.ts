@@ -22,8 +22,7 @@ import {GoogleChart} from 'angular2-google-chart/directives/angular2-google-char
   bootstrap: [IonicApp],
   entryComponents: [
     MyApp,
-    HomePage,
-    GoogleChart
+    HomePage
   ],
   providers: [
     StatusBar,
